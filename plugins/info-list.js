@@ -8,18 +8,17 @@ const sections = [
 	rows: [
 	    {title: "📊Test Speed", rowId: '.testspeed', description: 'Test Speed' },
 	    {title: "📉Stats Server", rowId: '.statserver', description: 'Status server' },
-	{title: "👤Owner", rowId: '.owner', description: 'Owner Fangz BOT' },
-	{title: "💰Donasi", rowId: '.donasi', description: 'Support Fangz' },
+	{title: "👤Owner", rowId: '.owner', description: 'Owner' },
+	{title: "💰Donasi", rowId: '.donasi', description: 'Support BOT' },
 	]
     }, {
     title: `✃ INFO`,
 	rows: [
-	    {title: "📖Rules", rowId: '.rules', description: 'S&K Fangz BOT' },
+	    {title: "📖Rules", rowId: '.rules', description: 'S&K PinoBOT' },
 	    {title: "⛔", rowId: 'huuu', description: 'No menu' },
-	{title: "⚡Speed", rowId: '.speed', description: 'Speed Fangz BOT' },
-	{title: "💰Sewa BOT", rowId: '.sewa', description: 'Sewa Fangz BOT' },
-	{title: "🗣️Request Fitur", rowId: '.request', description: 'Request Fitur Fangz BOT' },
-	{title: "🌏Lokasi BOT", rowId: '.loc2', description: 'Lokasi Fangz BOT' },
+	{title: "⚡Speed", rowId: '.speed', description: 'Speed Testing' },
+	{title: "💰Sewa BOT", rowId: '.sewa', description: 'Sewa BOT' },
+	{title: "🗣️Request Fitur", rowId: '.request', description: 'Request Fitur BOT' },
 	]
     },
 ]
