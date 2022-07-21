@@ -5,7 +5,7 @@ Hay👋‹, ingin Donasi?
 
 💌 *Pembayaran*
 💳 Via: Gopay
-📞 Nomor: 
+📞 Nomor: 08895377665
 👤 A/n: Pino MD
 📝 Mitra: Pino BOT
 💰 Metode pembayaran: Online ( ~Cod~ )
