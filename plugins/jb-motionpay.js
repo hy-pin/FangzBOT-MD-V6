@@ -5,9 +5,9 @@ let text = `${htki} MOTION PAY ${htka}
 
 💌 *Pembayaran*
 💳 Via: Paypal
-📞 Nomor: 
-👤 A/n: Fangz
-📦 Mitra: Fangz BOT
+📞 Nomor: 08895377665
+👤 A/n: Pino MD
+📦 Mitra: Pino BOT
 💰 Metode pembayaran: Online ( ~Cod~ )
 
 📣 *Beli*
