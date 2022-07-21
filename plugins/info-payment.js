@@ -10,8 +10,8 @@ const sections = [
 	rows: [
 	    {title: "💳Dana", rowId: '.dana', description: 'Bayar melalui Dana' },
 	    {title: "💳Gopay", rowId: '.gopay', description: 'Bayar melalui Gopay' },
-	{title: "💳Ovo", rowId: '.ovo', description: 'Bayar melalui Ovo' },
-	{title: "💳Motion Pay", rowId: '.motionpay', description: 'Bayar melalui Motion Pay' },
+	{title: "💳ovo", rowId: '.ovo', description: 'Bayar melalui Ovo' },
+	{title: "💳Paypal", rowId: '.paypal', description: 'Bayar melalui Paypal' },
 	{title: "💵 Pulsa Smartfren", rowId: '.pulsasmartfren', description: 'Bayar melalui pulsa' },
 	{title: "💵 Pulsa Tri3", rowId: '.pulsastri', description: 'Bayar melalui pulsa' },
 	]
